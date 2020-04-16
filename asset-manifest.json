@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/collegeasaninvestment/static/css/main.d1b05096.chunk.css",
+    "main.js": "/collegeasaninvestment/static/js/main.d3d3ba22.chunk.js",
+    "main.js.map": "/collegeasaninvestment/static/js/main.d3d3ba22.chunk.js.map",
+    "runtime-main.js": "/collegeasaninvestment/static/js/runtime-main.40e830bf.js",
+    "runtime-main.js.map": "/collegeasaninvestment/static/js/runtime-main.40e830bf.js.map",
+    "static/js/2.f123ac7a.chunk.js": "/collegeasaninvestment/static/js/2.f123ac7a.chunk.js",
+    "static/js/2.f123ac7a.chunk.js.map": "/collegeasaninvestment/static/js/2.f123ac7a.chunk.js.map",
+    "index.html": "/collegeasaninvestment/index.html",
+    "precache-manifest.aa3a14d9f7d1ecf122cc6abe81e767fa.js": "/collegeasaninvestment/precache-manifest.aa3a14d9f7d1ecf122cc6abe81e767fa.js",
+    "service-worker.js": "/collegeasaninvestment/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/collegeasaninvestment/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.f123ac7a.chunk.js.LICENSE.txt": "/collegeasaninvestment/static/js/2.f123ac7a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/collegeasaninvestment/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40e830bf.js",
+    "static/js/2.f123ac7a.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.d3d3ba22.chunk.js"
+  ]
+}
